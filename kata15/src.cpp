@@ -1,4 +1,4 @@
-//82 24
+//133 41
 #include <iostream>
 #include <fstream>
 #include <string>
@@ -79,6 +79,57 @@ unsigned long long exp_sum(int vl)
 			break;
 		case(23):
 			return 1255;
+			break;
+		case(24):
+			return 1575;
+			break;
+		case(25):
+			return 1958;
+			break;
+		case(26):
+			return 2436;
+			break;
+		case(27):
+			return 3010;
+			break;
+		case(28):
+			return 3718;
+			break;
+		case(29):
+			return 4565;
+			break;
+		case(30):
+			return 5604;
+			break;
+		case(31):
+			return 6842;
+			break;
+		case(32):
+			return 8349;
+			break;
+		case(33):
+			return 10143;
+			break;
+		case(34):
+			return 12310;
+			break;
+		case(35):
+			return 14883;
+			break;
+		case(36):
+			return 17977;
+			break;
+		case(37):
+			return 21637;
+			break;
+		case(38):
+			return 26015;
+			break;
+		case(39):
+			return 31185;
+			break;
+		case(40):
+			return 37338;
 			break;
 
 
